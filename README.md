@@ -1,3 +1,15 @@
+# ⚠️ This repository is here for reference only<br/> - there is a better solution!:
+
+## On GitHub, nginx-ldap from sepich
+» The Original: https://github.com/sepich/nginx-ldap
+
+» My Fork without changes on GitHub: https://github.com/schittli/nginx-ldap
+
+» My Fork **with changes** on GitLab: https://gitlab.com/jig-opensource/source-code/nginx-ldap
+
+
+**❯ Here, this is the original readme.md:**
+
 # nginx-ldap-auth
 
 Reference implementation of method for authenticating users on behalf of servers proxied by NGINX or NGINX Plus
